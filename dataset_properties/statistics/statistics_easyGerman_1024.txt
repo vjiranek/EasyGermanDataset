@@ -1,0 +1,21 @@
+Dataset EasyGerman 
+
+total number of files: 3832
+total number of letters: 6388728
+total number of words: 1196192
+total number of sentences: 96263
+total vocabulary size: 71912
+average number of letters per word: 6
+average number of words per sentence: 13
+
+average number of letters per file: 1668
+average number of words per file: 313
+average number of sentences per file: 26
+average vocabulary size per file: 162
+
+median of the number of letters per file: 1257.0
+median of the number of words per file: 242.0
+median of the number of sentences per file: 23.0
+median of the vocabulary size per file: 124.0
+
+maximum number of words per file: 1024
